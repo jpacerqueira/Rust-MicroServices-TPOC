@@ -10,3 +10,6 @@ cd glibc-2.29/build
 make
 make install
 #
+## If fails run
+sudo apt-get install build-essential
+#
